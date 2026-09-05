@@ -1,0 +1,4 @@
+interface:
+  display_name: "【S.010】Starryear-Absurd丨星年·荒诞者"
+  short_description: "用大片纯净留白和递进尺度悖论重构一张照片的荒诞四拼"
+  default_prompt: "使用 $008-starryear-clean-absurd-stage，把我上传的照片变成一张干净留白的荒诞超现实四格作品。"
