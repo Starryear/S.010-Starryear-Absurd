@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◻️ Starryear-Clean-Absurd-Stage
+# 【S.010】Starryear-Absurd丨星年·荒诞者
 
 **把真实照片展开成四次递进的不可能动作，让荒诞悬停在大片安静留白里。**
 
